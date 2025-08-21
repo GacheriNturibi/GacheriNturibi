@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gacheri Nturibi  
 
 I thrive on tackling challenges and pushing the boundaries of what’s possible with data.  
-With a background in **Geospatial Engineering** and a passion for **data science**, I love exploring how advanced analytics, machine learning, and deep learning can unlock new insights in geospatial analysis and beyond.  
+With a background in **Geospatial Engineering** and a passion for **data science**, I love exploring how advanced analytics, machine learning, and deep learning can unlock new insights in geospatial analysis and beyond.  (Sometimes I make fun little apps🙃; some which I shall make public soon).
 
 ---
 
