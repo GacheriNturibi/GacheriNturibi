@@ -34,4 +34,4 @@ Check out my featured projects:
 **Other:** Git/GitHub, APIs, Machine Learning, Deep Learning  
 
 ---
-Want to learn more about me? Send me a good old [email](gacherinturibi@gmail.com) 😊
+Want to learn more about me? Send me a good old email 😊
