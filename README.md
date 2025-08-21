@@ -24,14 +24,5 @@ Check out my featured projects:
 - 🐱 **Cat enthusiast** – yes, I’ll happily share cat memes while debugging code  
 - 📚 Love exploring **world history** and **fictional novels**  
 - 🌱 Currently enjoying working on agronomy data  
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Python, R, SQL, JavaScript  
-**Data & Viz:** Power BI, Tableau, Streamlit  
-**GIS Tools:** ArcGIS, QGIS, Google Earth Engine  
-**Other:** Git/GitHub, APIs, Machine Learning, Deep Learning  
-
 ---
 Want to learn more about me? Send me a good old email 😊
