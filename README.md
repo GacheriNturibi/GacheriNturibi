@@ -17,12 +17,6 @@ With a background in **Geospatial Engineering** and a passion for **data science
 Curious about my work?  
 Check out my featured projects:  
 [🔗 Data Analysis Portfolio](https://github.com/GacheriNturibi/Data-Analysis-Portfolio)
-
+ 
 ---
-
-## 🧩 A Bit About Me    
-- 🐱 **Cat enthusiast** – yes, I’ll happily share cat memes while debugging code  
-- 📚 Love exploring **world history** and **fictional novels**  
-- 🌱 Currently enjoying working on agronomy data  
----
-Want to learn more about me? Send me a good old email 😊
+Want to learn more about me? Send me a good old email: gacherinturibi@gmail.com 😊
