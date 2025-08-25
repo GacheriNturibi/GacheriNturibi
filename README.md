@@ -16,7 +16,7 @@ With a background in **Geospatial Engineering** and a passion for **data science
 ## 📂 Portfolio  
 Curious about my work?  
 Check out my featured projects:  
-[🔗 Data Analysis Portfolio](https://github.com/GacheriNturibi/Data-Analysis-Portfolio)
+[Data Analysis Portfolio](https://github.com/GacheriNturibi/Data-Analysis-Portfolio)
  
 ---
 Want to learn more about me? Send me a good old email: gacherinturibi@gmail.com 😊
