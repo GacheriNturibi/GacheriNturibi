@@ -8,7 +8,7 @@ With a background in **Geospatial Engineering** and a passion for **Data Science
 ## 🎯 What I Do  
 - 📊 **Data Science & Analytics** – Python, R, SQL, Power BI  
 - 🌐 **Geospatial Analysis** – ArcGIS, QGIS, Google Earth Engine  
-- 🤖 **Machine Learning & Deep Learning** – predictive modeling, classification, neural networks  
+- 🤖 **Machine Learning & Deep Learning** – predictive modeling, classification, regression, neural networks  
 - 🛠️ **APIs & Automation** – Streamlit, Flask, and workflow standardization  
 
 ---
